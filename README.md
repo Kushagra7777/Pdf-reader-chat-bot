@@ -57,7 +57,3 @@ Contributions and feedback are welcome! Please feel free to fork the repository,
 ## Note
 
 This project is a demonstration of how AI-powered chatbots can facilitate document exploration and information retrieval. It is intended for educational and research purposes.
-
----
-
-You can replace `[Specify your chosen license here]` with the appropriate license for your project. Feel free to customize this README template further to include additional information specific to your project. If you have any questions or need further assistance, please let me know!
